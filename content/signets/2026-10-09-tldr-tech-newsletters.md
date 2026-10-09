@@ -1,6 +1,7 @@
 ---
 title: TLDR Tech Newsletters
 extra:
+  image: "/images/2026-10-09-tldr-tech-newsletters.jpg"
   url: https://tldr.tech/newsletters
 taxonomies:
   category:
