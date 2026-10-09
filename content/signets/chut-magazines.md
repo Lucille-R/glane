@@ -1,6 +1,7 @@
 ---
 title: "Chut! Magazines"
 extra:
+  image: "/images/chut-magazines.jpg"
   url: "https://chut.media/"
 taxonomies:
   category: [ressources, francophone]
